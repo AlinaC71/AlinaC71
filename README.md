@@ -16,7 +16,7 @@ I am a resourceful data scientist with a strong interest in building innovative 
 
 I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
 
-- **Programming languages:** R, C++
+- **Programming languages:** R, C++, C#.NET
 - **Frameworks and libraries:** TensorFlow, Keras, JAX
 - **Tools and technologies:** Microsoft Azure, Ivy
 
