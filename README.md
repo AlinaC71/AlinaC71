@@ -30,3 +30,9 @@ The objective of this project is to develop a Netflix recommendation system usin
 ### Python Variables and Control Structures project: finance_calculators.py
 
 This task required creating a program that allows the user to access two financial calculators: an investment calculator (where there is a choice of simple or compound interest) and a home loan repayment calculator based on information provided (interest rate, number of years invested/ needed for the repayment, simple or compound interest). 
+
+### Hangman Python game : hangman.py
+
+Independent project to strengthen my understanding of OOP concepts learned during the CFG boot camp by creating a class-based Hangman game.
+
+
