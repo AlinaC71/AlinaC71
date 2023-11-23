@@ -23,7 +23,7 @@ I'm constantly expanding my knowledge and exploring new domains. Currently, I'm 
 
 ## 🔭 Projects
 
-### Natural Language Processing - Creating a 'Netflix Recommendation System' in Python with spaCy: watch_next.py
+### Natural Language Processing - Creating a 'Netflix Recommendation System' in Python with spaCy : watch_next.py
 
 The objective of this project is to develop a Netflix recommendation system using natural language processing techniques in Python. The system compares the similarity between a given movie description and a collection of other movie descriptions to generate personalised recommendations.
 
