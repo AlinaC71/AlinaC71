@@ -1,12 +1,12 @@
 ### Hi there 👋
 Welcome to my GitHub Repository!
 
-🌱 I’m currently learning Data Science through HyperionDev!
-Here you will find some of the projects I have worked on during the course.
+🌱 I am currently seeking an opportunity to apply the solid foundations acquired through the CFG Full Stack and HyperionDev Data Science bootcamps in a professional work environment.
+Here are just a few of the projects I have worked on during the boot camps and independently afterwards.
 
 ## 😄 About Me 
 
-I am a resourceful data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+I am a resourceful web developer and budding data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
 - **Programming languages:** Python, MySQL
 - **Frameworks and libraries:** numPy, Pandas, Matplotlib, Seaborn, SKLearn, spaCy 
