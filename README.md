@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub Repository!
 
-🌱 I am currently seeking an opportunity to apply the solid foundations acquired through the CFG Full Stack and HyperionDev Data Science bootcamps in a professional work environment.
+🌱 I am currently seeking an opportunity to apply the solid foundations acquired through the CFG Full Stack Web Development and HyperionDev Data Science boot camps in a professional work environment.
 Here are just a few of the projects I have worked on during the boot camps and independently afterwards.
 
 ## 😄 About Me 
