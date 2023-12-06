@@ -8,17 +8,24 @@ Here are just a few of the projects I have worked on during the boot camps and i
 
 I am a resourceful web developer and budding data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
-- **Programming languages:** Python, MySQL
-- **Frameworks and libraries:** numPy, Pandas, Matplotlib, Seaborn, SKLearn, spaCy 
-- **Tools and technologies:** Machine Learning, DBMS
+- **Skills:**
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Python, Node.js, Express, Flask  
+- **Database management:** MySQL
+- **Machine Learning:** numPy, Pandas, Seaborn, SKLearn, spaCy
+- **NLP:** spaCY
+- **Data Analysis:**
+- **Data Visualization:** Matplotlib, PowerBI
+- **Tools:** Machine Learning, DBMS
+
 
 ## 🌱 I'm currently learning
 
 I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
 
-- **Programming languages:** R, C++, C#.NET
-- **Frameworks and libraries:** TensorFlow, Keras, JAX
-- **Tools and technologies:** Microsoft Azure, Ivy
+- **Programming languages:**  C++, C#.NET, R
+- **Frameworks and libraries:** TensorFlow, Keras
+- **Cloud Platforms:** AWS
 
 
 ## 🔭 Projects
