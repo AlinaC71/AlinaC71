@@ -21,10 +21,11 @@ I am a resourceful web developer and budding data scientist with a strong intere
 
 ## 🌱 I'm currently learning
 
-I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
+I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on key components and concepts of server-side development and the following:
 
-- **Programming languages:**  C++, C#.NET, R
-- **Frameworks and libraries:** TensorFlow, Keras
+- **Key Concepts:**  asynchronous communication, XMLHttpRequest Objects, promises and callbacks 
+- **Languages:**  PHP, XML 
+- **Frameworks and libraries:** AXIOS
 - **Cloud Platforms:** AWS
 
 
