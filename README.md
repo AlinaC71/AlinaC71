@@ -8,7 +8,7 @@ Here are just a few of the projects I have worked on during the boot camps and i
 
 I am a resourceful web developer and budding data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
-# Skills:
+### Skills:
 - **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Python, Node.js, Express, Flask  
 - **Database management:** MySQL
