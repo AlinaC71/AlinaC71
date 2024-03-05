@@ -43,4 +43,11 @@ This task required creating a program that allows the user to access two financi
 
 Independent project to strengthen my understanding of OOP concepts learned during the CFG boot camp by creating a class-based Hangman game.
 
+### MYSQL myrecdb
+
+I expanded the project's scope developed during the CFG Data & SQL course by incorporating Python scripts (which automate the DB table creation and facilitate the creation of DB queries, stored functions and procedures).
+My initial objectives included drafting a few core tables (and relationships between them) for a database that stores information related to records used in the design office.
+Revisiting the project I realised that my original files became corrupted during the transfer when changing computers, with only a fraction of the original data in a usable state. Ultimately, I had to devise a strategy to recover my project. The db.mwb file was uncorrupted so I employed it to forward engineer the DB generating the tables and relationships. I finally used the mysql.connection and pandas libraries along with the os Python module to automate the reading .csv files (containing table information) into DataFrames.  
+
+
 
