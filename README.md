@@ -10,7 +10,7 @@ I am a resourceful web developer and budding data scientist with a strong intere
 
 ### Skills:
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Python, Node.js, Express, Flask  
+- **Backend:** Python, Flask  
 - **Database management:** MySQL, SQlite, SQL Alchemy ORM
 - **Machine Learning:** numPy, Pandas, Seaborn, SKLearn, spaCy
 - **NLP:** spaCY
