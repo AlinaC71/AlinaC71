@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub Repository!
 
-🌱 I'm currently exploring opportunities to apply the solid foundations I've gained through the CFG Full Stack Web Development and Data Science boot camps in a real-world, professional setting. Below, you'll find a selection of projects I've developed both during the boot camps and independently afterward.
+🌱 I'm a proactive and adaptable web developer with a growing passion for data science. After two decades working as a railway signalling designer, I'm now exploring new opportunities in software engineering — building on my strong foundation of problem-solving, precision, and attention to detail. I enjoy creating innovative, meaningful solutions and thrive on tackling challenging problems. I'm always eager to learn new technologies and deepen my expertise, drawing on my transferrable skills to contribute effectively in this new field.
 
 ## 😄 About Me 
 
