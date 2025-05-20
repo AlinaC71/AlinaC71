@@ -1,14 +1,13 @@
 ### Hi there 👋
 Welcome to my GitHub Repository!
 
-🌱 I am currently seeking an opportunity to apply the solid foundations acquired through the CFG Full Stack Web Development and Data Science boot camps in a professional work environment.
-Here are just a few of the projects I have worked on during the boot camps and independently afterwards. 
+🌱 I'm currently exploring opportunities to apply the solid foundations I've gained through the CFG Full Stack Web Development and Data Science boot camps in a real-world, professional setting. Below, you'll find a selection of projects I've developed both during the boot camps and independently afterward.
 
 ## 😄 About Me 
 
-I am a resourceful web developer and budding data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+I'm a proactive and adaptable web developer with a growing passion for data science. I enjoy creating innovative, meaningful solutions and thrive on tackling challenging problems. I'm always eager to learn new technologies and deepen my expertise.
 
-### Skills:
+### Key Skills:
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Python, Flask  
 - **Database management:** MySQL, SQlite, SQL Alchemy ORM
@@ -50,43 +49,36 @@ I'm constantly expanding my knowledge and exploring new domains. Currently, I'm 
 
 ## 🔭 Projects
 
-## SigRec webb app in Flask with SQlite 
+## 🚦 SigRec – Signalling Records Web App
+Tech Stack: Flask • SQLite • SQLAlchemy • Jinja2 • Bootstrap • Gunicorn • Render
 
-### Project history
+SigRec is a Flask-based web app for managing signalling records used in a design office. It began as a database capstone project and evolved into a full-stack web application with plans for future enhancements.
 
-### Phase 1: MySQL Database Creation and Recovery  
-I initially developed mysigrecdb during the CFG Data & SQL course as my capstone project.
-My first objective was to design core tables and relationships for a database managing signalling records used in a design office. However, upon revisiting the project, I discovered that my original files had been corrupted during a computer transfer, leaving only partial data intact. To recover my work, I leveraged a clean `db.mwb` to forward-engineer the database, re-generating tables and relationships.
-Using the `mysql.connector` and `pandas` libraries alongside the `os` module, I automated the process of reading `.csv` files containing table data into DataFrames. Since my database schema and `.csv` files originated from different development stages, I turned this recovery process into an opportunity to identify and resolve missing data, errors, and inconsistencies.
+### 📌 Project History
 
-### Phase 2: Transition to Flask and Web App Development  
-During my time in the CFG Full Stack Bootcamp, I learned about Python and the Flask web framework, which inspired me to transform my standalone database project into a fully functional web application. I dedicated myself to learning Flask in depth, along with key supporting technologies such as Jinja2 for templating, SQLAlchemy for ORM-based database management, and Bootstrap for responsive UI design. This phase also included understanding web forms, routing, error handling, and deployment processes — all of which were essential to building and deploying a scalable and modular Flask application.
+### Phase 1: Database Design & Recovery
+Originally built during the CFG Data & SQL course using MySQL, the first version focused on designing a relational database for signalling records. After losing most original files during a computer transfer, I recovered and rebuilt the schema from a .mwb model. Using mysql.connector, pandas, and os, I automated importing legacy .csv data and resolved schema mismatches and data inconsistencies.
 
-### Phase 3: Deployment and Ongoing Enhancements
-After completing development of the core features, I focused on deploying the application to a live environment using Render, a modern cloud platform. I configured the project for production with an app factory structure, used Gunicorn as the production-ready WSGI server, and securely managed sensitive data like secret keys through environment variables.
-For deployment, I switched from MySQL to SQLite to simplify the setup, but I'm planning a future migration to PostgreSQL for greater reliability and persistence across deployments.
+### Phase 2: Flask Wev App Development  
+Inspired by the CFG Full Stack Bootcamp, I transitioned the project into a web app using Flask. I learned and implemented key concepts like routing, templates (Jinja2), ORM (SQLAlchemy), and UI design (Bootstrap), building a modular and scalable app structure with proper error handling and forms.
 
+### Phase 3: Deployment & Refinement
+I deployed the app on Render using Gunicorn as the WSGI server. For simplicity, I switched to SQLite for deployment, with plans to migrate to PostgreSQL for better long-term scalability. Environment variables are used for secure config management.
 Planned improvements include:
-
 - Adding a secure user login system with role-based access for different teams (Design, Record Control, Management).
 - Full implementation of the Design and Management modules to complement the fully functional Record Control system.
 - Migrating from SQLite to PostgreSQL to ensure long-term data persistence and scalability.
 
-This phase marks the shift from a local prototype to a maintainable, production-ready web application.
 
-
-
-
-
-### Natural Language Processing - Creating a 'Netflix Recommendation System' in Python with spaCy: watch_next.py
+## Natural Language Processing - Creating a 'Netflix Recommendation System' in Python with spaCy: watch_next.py
 
 The objective of this project is to develop a Netflix recommendation system using natural language processing techniques in Python. The system compares the similarity between a given movie description and a collection of other movie descriptions to generate personalised recommendations.
 
-### Python Variables and Control Structures project: finance_calculators.py
+## Python Variables and Control Structures project: finance_calculators.py
 
 This task required creating a program that allows the user to access two financial calculators: an investment calculator (where there is a choice of simple or compound interest) and a home loan repayment calculator based on information provided (interest rate, number of years invested/ needed for the repayment, simple or compound interest). 
 
-### Hangman Python game : hangman.py
+## Hangman Python game : hangman.py
 
 Independent project to strengthen my understanding of OOP concepts learned during the CFG boot camp by creating a class-based Hangman game.
 
