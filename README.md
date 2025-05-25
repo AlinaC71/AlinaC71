@@ -20,7 +20,7 @@ I'm a proactive and adaptable web developer with a growing passion for data scie
 
 ## 🌱 I'm currently learning
 
-I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on SigRec, a web application for the management of signalling records drawing on over two decades of experience in a design office.
+I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on SigRec, a web application for the management of signalling records drawing on over two decades of experience in a design office and studying for my AWS Cloud Practitioner certification.
 
 **Key Concepts:**
 - Application factory pattern (create_app)
