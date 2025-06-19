@@ -49,6 +49,30 @@ I'm constantly expanding my knowledge and exploring new domains. Currently, I'm 
 
 ## 🔭 Projects
 
+
+## 📊 Company Incorporation & Turnover Analysis
+Tech Stack: Python • pandas • MySQL • SQLAlchemy • matplotlib • Jupyter Notebooks
+
+This project explores trends in UK company registration and turnover based on a 50,000-row anonymised HMRC-style dataset.
+
+### 🔍 Project Goals
+Identify sectors with the greatest increase and decrease in turnover across 2020–2024
+Analyse turnover trends for specific industries (e.g. Farming)
+Determine the least common month for company incorporation — and whether this varies by company type
+
+
+### 🛠️ Key Features
+Data cleaning and preprocessing (handling nulls, parsing dates, correcting data types)
+SQL queries for grouping, aggregation, and filtering
+Python functions and pandas for exploratory data analysis
+Integration of SQL (via SQLAlchemy) with Python for reproducible analysis
+Secure use of .env for database credentials
+
+### 💡 Outcome
+Delivered answers to real-world business questions using clean, reusable, well-documented code. Currently expanding the project to include automated data ingestion workflows and exploring PySpark for large-scale transformations.
+
+
+
 ## 🚦 SigRec – Signalling Records Web App
 Tech Stack: Flask • SQLite • SQLAlchemy • Jinja2 • Bootstrap • Gunicorn • Render
 
